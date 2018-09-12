@@ -91,28 +91,21 @@ Functions:
     - Does the numeral display correctly 
     - Does the numeral display correctly when paired with other numerals.
     - Does the numeral compute properly with the function keys.
-    
-Equal Sign
+- Equal Sign
+    - Does the "Equal Sign" need a value or operation to display a value when pressed.
 
 display:
-accuracy
-display length
-decimal
-decimal placement
+- How accurate is the display when displaying each numeral.
+- Is the display easy to see regarding brightness.
+- Is it easy to distinguish the difference between each numeral.
+- Does the display react correctly when a numeral or numerals are key'd.
+- Does the display react correctly when a opertation is key'd.
+- How many numerals/characters can be displayed at a time. 
+- What is displayed when you try and compute past the displays limitations.
+- When using a decimal is it easy to distinguish.
+- When using a decimal does the display place in the correct place.
+- When you key "Clear" does it remove all previous numerals and/or funtions.
+- After selecting "Clear" what is displayed.
+- Is there a default value that displays.
 
-
-internal software:
-accuracy
-key input combinations
-display limitations
-limitations of computing combinations
-rounding
-On/Clear  
-Addition  
-Subtraction   
-Multiplication  
-Division  
-Decimal Point  
-All Numerals (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)  
-Equal Sign
 
